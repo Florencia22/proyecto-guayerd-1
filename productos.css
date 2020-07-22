@@ -1,0 +1,42 @@
+h1{
+    font-family: "roboto";
+}
+body{
+    background-color: #C4B1AE;
+    font-family: "roboto";
+}
+.content-menu {
+   width:80%;
+    margin: auto;
+ }
+
+ ul, li {
+    display: block;
+    float: right;
+    padding: 10px;
+}
+
+.hijo1{
+    width:80% ;
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border:dashed;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.content-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.title{
+    float: left;
+    margin-left: 40px;
+}
+a{
+    text-decoration: none;
+}

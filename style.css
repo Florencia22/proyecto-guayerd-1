@@ -1,0 +1,98 @@
+.titulo{
+    float: left;
+}
+.title1{
+    float: left;
+    margin-top: 20px;
+
+}
+
+body{
+     background-color:#C4B1AE;
+     font-family:"roboto";
+}
+ul, li {
+    display: block;
+    float: right;
+    padding: 10px;
+    margin-top: 40PX;
+}
+img{
+    border: double;
+    border-color: black;
+}
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+table, tr, td{
+    border: 1px solid;
+    text-align: center;
+    width: auto;
+    margin: auto;
+}
+
+.cuadro{
+    background-color:peru;
+} 
+.content-menu1{
+    width: 60%;
+    margin: auto;
+    margin-top:30px;
+    
+} 
+.content-menu2{
+          
+   width: 80%;
+   margin: auto;
+
+}
+ iframe{
+     margin-left: 8em;
+     width: 80%;
+     height:450px ;
+     text-align: center;
+     margin-top: 20px;
+    }
+ 
+  
+form{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    justify-content: space-around;
+}
+#mensaje{
+    height: 80px;
+}
+button{
+    width: 100px;
+    position: relative;
+    left: 67%;
+}
+.contenedor-form{
+    margin-left: 40%;
+    position: relative;
+    top: 70px;
+
+}
+
+
+input,textarea,select{
+width: 100%;
+
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.campo1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+label{
+    width: 80px;
+}
